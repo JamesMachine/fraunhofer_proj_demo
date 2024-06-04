@@ -26,7 +26,7 @@ While these projects provided valuable hands-on experience and deepened my under
   - Applied GMM
 - **Techniques:** Clusterings | PCA
 
-2. **Diabetes Detection**
+### 2. **Diabetes Detection**
 
 - **Course:** Machine Learning
 - **Brief Description:** Develop a machine learning solution for early diabetes detection
