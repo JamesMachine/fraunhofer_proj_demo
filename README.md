@@ -12,19 +12,19 @@ While these projects provided valuable hands-on experience and deepened my under
 
 ## Projects Included
 
-1. Japan Earthquake Forecasting (Phase 1)
+### 1. Japan Earthquake Forecasting (Phase 1)
 
-  - **Course:** Mathematics and Multivariate Statistics
-  - **Brief Description:** Aim at identifying hidden earthquake patterns from 30 days historical weather data
-  - **Approach:**
-    - Scraped Dates of earthquakes in Japan for 50 years
-    - Scraped 30 days Historical Weather Data against the coresponding dates on hourly basis
-    - Performed basic feature distributions initial data analysis
-    - Performed covariance check
-    - Applied PCA
-    - Applied OPTICS
-    - Applied GMM
-  - **Techniques:** Clusterings | PCA
+- **Course:** Mathematics and Multivariate Statistics
+- **Brief Description:** Aim at identifying hidden earthquake patterns from 30 days historical weather data
+- **Approach:**
+  - Scraped Dates of earthquakes in Japan for 50 years
+  - Scraped 30 days Historical Weather Data against the coresponding dates on hourly basis
+  - Performed basic feature distributions initial data analysis
+  - Performed covariance check
+  - Applied PCA
+  - Applied OPTICS
+  - Applied GMM
+- **Techniques:** Clusterings | PCA
 
 2. **Diabetes Detection**
 
