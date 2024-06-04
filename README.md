@@ -25,7 +25,19 @@ While these projects provided valuable hands-on experience and deepened my under
   - Applied GMM
 - **Techniques:** Clusterings | PCA
 
-### 2. Diabetes Detection
+### 2. Load Forecasting
+
+- **Course:** Advanced Machine Learning in Energy Applications
+- **Brief Description:** Load Forecasting for 18 zones in the US based on Temperature Data
+- **Approach:**
+  - Initial Data Analysis on Load and Temperature
+  - Data Preprocessing
+  - Time-series Preparation
+  - Define Baseline Model (LSTM)
+  - Fine-tune baseline model
+- **Techniques:** Time-Series | LSTM
+
+### 3. Diabetes Detection
 
 - **Course:** Machine Learning
 - **Brief Description:** Develop a machine learning solution for early diabetes detection
@@ -38,7 +50,7 @@ While these projects provided valuable hands-on experience and deepened my under
   - Fine-tuned the best model by applying Grid-search
 - **Techniques:** Decision Tree | KNN | SVM | Cross-validation | Grid/Random-Search CV
 
-### 3. Kiel Road Accidents Analysis
+### 4. Kiel Road Accidents Analysis
 
 - **Course:** Data Visualization
 - **Brief Description:** Analyze the road accidents in Kiel by visualizaion methods
