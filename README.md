@@ -1,6 +1,5 @@
 # Data Science Projects by James
 
-
 ## Greetings and Introduction
 Hello! Welcome to my GitHub repository. I am a Data Science student at Fachhochschule Kiel. This repository contains various projects I have worked on during my academic journey.
 
@@ -26,7 +25,7 @@ While these projects provided valuable hands-on experience and deepened my under
   - Applied GMM
 - **Techniques:** Clusterings | PCA
 
-### 2. **Diabetes Detection**
+### 2. Diabetes Detection
 
 - **Course:** Machine Learning
 - **Brief Description:** Develop a machine learning solution for early diabetes detection
@@ -39,7 +38,7 @@ While these projects provided valuable hands-on experience and deepened my under
   - Fine-tuned the best model by applying Grid-search
 - **Techniques:** Decision Tree | KNN | SVM | Cross-validation | Grid/Random-Search CV
 
-3. **Kiel Road Accidents Analysis**
+### 3. Kiel Road Accidents Analysis
 
 - **Course:** Data Visualization
 - **Brief Description:** Analyze the road accidents in Kiel by visualizaion methods
