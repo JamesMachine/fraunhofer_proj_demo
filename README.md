@@ -12,7 +12,7 @@ While these projects provided valuable hands-on experience and deepened my under
 
 ## Projects Included
 
-1. **Japan Earthquake Forecasting (Phase 1)**
+1. Japan Earthquake Forecasting (Phase 1)
 
   - **Course:** Mathematics and Multivariate Statistics
   - **Brief Description:** Aim at identifying hidden earthquake patterns from 30 days historical weather data
