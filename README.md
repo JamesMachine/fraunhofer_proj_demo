@@ -1,5 +1,7 @@
-Data Science Projects by James
-Greetings and Introduction
+# Data Science Projects by James
+
+
+## Greetings and Introduction
 Hello! Welcome to my GitHub repository. I am a Data Science student at Fachhochschule Kiel. This repository contains various projects I have worked on during my academic journey.
 
 About This Repository
